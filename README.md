@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David!</h1>
+<h1 align="center">Hi 👋 I'm David!</h1>
 <h3 align="center">A web development student from Seattle 🤓</h3>
 
 - 🌱 I’m currently learning: **React.js, Express.js, MongoDB, and Node.js**
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **https://www.linkedin.com/in/davidjcrockett/**
 
-- ⚡ Fun fact: **I love running 🏃‍♂️, video games 👾, and most of all, FOOOOOOOOOD! 🤤**
+- ⚡ Fun fact: **I love running 🏃‍♂️, video games 👾, and most of all, FOOD! 🤤**
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
@@ -19,3 +19,4 @@
 <p align="left">
 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
+# davidjcrockett
